@@ -6,7 +6,7 @@ Features:
 - Auto-swap mode that continuously replaces images
 - Works on any website
 
-[Download link here]
+[Download link here](https://github.com/feldmanifier/Feldmanifier/blob/main/feldmanifier-extension.zip)
 
 Installation instructions:
 1. Download and extract the zip file

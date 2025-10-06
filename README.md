@@ -1,4 +1,4 @@
-I created a Chrome extension called "Feldman-ifier" that replaces 
+I created a Chrome extension called "Feldmanifier" that replaces 
 all images on any website with random photos of Corey Feldman.
 
 Features:

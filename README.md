@@ -1,16 +1,18 @@
-## Hi there 👋
+I created a Chrome extension called "Feldman-ifier" that replaces 
+all images on any website with random photos of Corey Feldman.
 
-<!--
-**feldmanifier/Feldmanifier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Features:
+- Manual swap button to replace all images instantly
+- Auto-swap mode that continuously replaces images
+- Works on any website
 
-Here are some ideas to get you started:
+[Download link here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Installation instructions:
+1. Download and extract the zip file
+2. Go to chrome://extensions/
+3. Enable "Developer mode" (top-right toggle)
+4. Click "Load unpacked"
+5. Select the extracted folder
+
+[Include a screenshot or GIF showing it in action]

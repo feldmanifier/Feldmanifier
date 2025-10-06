@@ -15,4 +15,4 @@ Installation instructions:
 4. Click "Load unpacked"
 5. Select the extracted folder
 
-[Include a screenshot or GIF showing it in action]
+[Screenshot](https://imgur.com/a/tuwWvUo)
